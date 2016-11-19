@@ -11,7 +11,7 @@ javac -cp "\<path_to_your_server_dir\>/apache-tomcat-9.0.0.M13/lib/servlet-api.j
 as a result you should see the generated CurrentDateAndTimeServlet.class file in the classes directory
 
 * create the webapp directory structure as follow:
-\<path_to_your_server_dir\>\apache-tomcat-9.0.0.M13\webapps\servletstart
+\<path_to_your_server_dir\>\apache-tomcat-9.0.0.M13\webapps\servletstart\WEB-INF
 
 * copy compiled .class file and web.xml into project directory on the server:
 \<path_to_your_server_dir\>\apache-tomcat-9.0.0.M13\webapps\servletstart\WEB-INF\classes\CurrentDateAndTimeServlet.class
