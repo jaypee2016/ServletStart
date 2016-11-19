@@ -27,7 +27,8 @@ RESULT
 ==========
 Current Servlet Date and Time:
 
-Sat Nov 19 15:03:17 GMT 2016 
+Sat Nov 19 15:03:17 GMT 2016
+============
 
 * After you enjoyed the view of your wonderful page you should shut down the server:
 \<path_to_your_server_dir\>\apache-tomcat-9.0.0.M13\bin>shutdown.bat
